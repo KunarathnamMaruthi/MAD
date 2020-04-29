@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MAD.git.iml" filepath="$PROJECT_DIR$/MAD.git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shopcenter.iml" filepath="$PROJECT_DIR$/.idea/modules/Shopcenter.iml" group="Shopcenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Shopcenter/app" />
     </modules>
   </component>
 </project>
