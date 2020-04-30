@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shopcenter.iml" filepath="$PROJECT_DIR$/.idea/modules/Shopcenter.iml" group="Shopcenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shopcenter2.git-Shopcenter.iml" filepath="$PROJECT_DIR$/.idea/modules/Shopcenter2.git-Shopcenter.iml" group="Shopcenter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Shopcenter2.git-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Shopcenter2.git-app.iml" group="Shopcenter/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Shopcenter/app" />
     </modules>
   </component>
